@@ -1,0 +1,177 @@
+@import "tailwindcss";
+
+@media print {
+  /* HIDE interactive web UI components completely */
+  nav, 
+  footer, 
+  header, 
+  button, 
+  select, 
+  input, 
+  textarea,
+  .no-print, 
+  [role="tablist"], 
+  .shadow-sm, 
+  .shadow-md, 
+  .shadow-2xl, 
+  .shadow-lg, 
+  .backdrop-blur-sm,
+  .overflow-x-auto::-webkit-scrollbar,
+  .overflow-y-auto::-webkit-scrollbar {
+    display: none !important;
+  }
+
+  /* Reset body and document viewport for paper printing */
+  body, html {
+    background: #fff !important;
+    background-color: #fff !important;
+    color: #000 !important;
+    font-size: 11pt !important;
+    font-family: "Sarabun", "TH Sarabun PSK", sans-serif !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    height: auto !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Expand all container wrappers so they don't isolate or clip tables */
+  .min-h-screen, 
+  main, 
+  .max-w-7xl,
+  .w-full,
+  .flex-1 {
+    background: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    box-shadow: none !important;
+    display: block !important;
+    overflow: visible !important;
+    max-height: none !important;
+  }
+
+  /* SHOW print-specific sections and ensure print utilities are visible */
+  #printable-report, 
+  .print\:block {
+    display: block !important;
+    visibility: visible !important;
+  }
+
+  /* If the modal is open, we only want to print the individual modal report, NOT the summary list report! */
+  body:has(.fixed.inset-0.z-50) #printable-report {
+    display: none !important;
+  }
+
+  /* Format individual training detail modal to be printable */
+  .fixed.inset-0.z-50 {
+    position: static !important;
+    background: #fff !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: visible !important;
+    display: block !important;
+    width: 100% !important;
+    z-index: auto !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+
+  .fixed.inset-0.z-50 > div {
+    max-height: none !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    border: none !important;
+    box-shadow: none !important;
+    display: block !important;
+    overflow: visible !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: #fff !important;
+  }
+
+  /* Hide close buttons and top banner elements within modal */
+  .fixed.inset-0.z-50 button, 
+  .fixed.inset-0.z-50 .bg-gradient-to-r, 
+  .fixed.inset-0.z-50 .border-t,
+  .fixed.inset-0.z-50 svg {
+    display: none !important;
+  }
+
+  /* Standardize printable memo layout margins and padding */
+  .printable-area {
+    display: block !important;
+    overflow: visible !important;
+    max-height: none !important;
+    padding: 1.2cm !important;
+    background: #fff !important;
+    color: #000 !important;
+    width: 100% !important;
+  }
+
+  /* Convert soft background card visuals into clean physical borders */
+  .printable-area .bg-slate-50, 
+  .printable-area .bg-white {
+    background: transparent !important;
+    background-color: transparent !important;
+    border: 1px solid #1e293b !important;
+    border-radius: 6px !important;
+    padding: 14px !important;
+    color: #000 !important;
+    box-shadow: none !important;
+  }
+
+  .printable-area h1 {
+    font-size: 16pt !important;
+    font-weight: bold !important;
+  }
+
+  .printable-area h3 {
+    font-size: 11pt !important;
+    font-weight: bold !important;
+    color: #1e3a8a !important;
+    border-bottom: 1px solid #1e3a8a !important;
+    padding-bottom: 4px !important;
+    margin-bottom: 8px !important;
+  }
+
+  /* Uniform grid printing representation */
+  .printable-area .grid {
+    display: block !important;
+  }
+  
+  .printable-area .grid > div {
+    margin-bottom: 6px !important;
+    font-size: 10pt !important;
+  }
+
+  /* Report table printing styles */
+  table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+    margin-top: 15px !important;
+  }
+
+  th, td {
+    border: 1px solid #475569 !important;
+    padding: 6px 8px !important;
+    color: #000 !important;
+    background: transparent !important;
+    font-size: 9.5pt !important;
+    word-break: break-word !important;
+  }
+
+  th {
+    background-color: #f1f5f9 !important;
+    color: #000 !important;
+    font-weight: bold !important;
+  }
+
+  /* Force landscape print for summary report, portrait for single report */
+  @page {
+    size: A4 portrait;
+    margin: 1cm 1cm 1cm 1cm;
+  }
+}
