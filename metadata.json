@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ระบบบันทึกและรายงานข้อมูลการฝึกอบรม RCIM(จริง3)",
+  "description": "ระบบบันทึกและรายงานข้อมูลการฝึกอบรมและพัฒนาตนเองของบุคลากร วิทยาลัยนวัตกรรมการจัดการ มหาวิทยาลัยเทคโนโลยีราชมงคลรัตนโกสินทร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

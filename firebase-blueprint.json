@@ -1,0 +1,43 @@
+{
+  "entities": {
+    "TrainingRecord": {
+      "title": "TrainingRecord",
+      "description": "Record of a staff member attending a training course or seminar",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "staffId": { "type": "string" },
+        "staffName": { "type": "string" },
+        "staffEmail": { "type": "string" },
+        "campus": { "type": "string" },
+        "staffType": { "type": "string" },
+        "isCollegeFaculty": { "type": "string" },
+        "academicPrograms": { "type": "array" },
+        "academicResponsiblePrograms": { "type": "array" },
+        "supportDeptGroup": { "type": "string" },
+        "supportDeptUnit": { "type": "string" },
+        "courseTitle": { "type": "string" },
+        "categories": { "type": "array" },
+        "organizer": { "type": "string" },
+        "startDate": { "type": "string" },
+        "endDate": { "type": "string" },
+        "hours": { "type": "number" },
+        "location": { "type": "string" },
+        "locationType": { "type": "string" },
+        "expense": { "type": "number" },
+        "knowledgeBefore": { "type": "number" },
+        "knowledgeAfter": { "type": "number" },
+        "workApplication": { "type": "string" },
+        "certificateFileName": { "type": "string" },
+        "submittedAt": { "type": "string" }
+      },
+      "required": ["id", "staffName", "courseTitle"]
+    }
+  },
+  "firestore": {
+    "/training_records/{recordId}": {
+      "schema": "TrainingRecord",
+      "description": "Durable training records submitted by staff or recorded by admins"
+    }
+  }
+}

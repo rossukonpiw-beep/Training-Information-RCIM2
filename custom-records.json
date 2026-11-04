@@ -1,0 +1,430 @@
+[
+  {
+    "locationType": "onsite",
+    "academicPrograms": [
+      "ฝ่ายบริการวิชาการและเครือข่ายสัมพันธ์ (sly)"
+    ],
+    "id": "RCIM-1791356721654",
+    "organizer": "หน่วยงานภายนอกสถาบัน",
+    "staffId": "6222134",
+    "submittedAt": "2026-10-07T07:05:21.654Z",
+    "workApplication": "สามารถนำความรู้และทักษะที่ได้รับจากการอบรมมาประยุกต์ใช้ในการปรับปรุงกระบวนการทำงาน พัฒนาระบบงานวิชาการและงานบริหารให้มีประสิทธิภาพดียิ่งขึ้น",
+    "location": "ห้องประชุม RCIM ศาลายา",
+    "staffName": "อ.ดร ทศพล อัครพงษ์ไพบูลย์",
+    "categories": [
+      "ด้านการบริหารจัดการและการพัฒนาองค์กร"
+    ],
+    "jobCharacteristics": "ผู้ปฏิบัติงานตามภารกิจหลักหรือลักษณะงานเฉพาะตำแหน่งของวิทยาลัยนวัตกรรมการจัดการ",
+    "certificateFile": "",
+    "certificateFileName": "",
+    "endDate": "2026-10-07",
+    "expense": 0,
+    "knowledgeBefore": 1,
+    "knowledgeAfter": 4,
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "hours": 6,
+    "staffEmail": "tossapon.akk@rmutr.ac.th",
+    "staffType": "academic",
+    "campus": "ศาลายา",
+    "startDate": "2026-10-07",
+    "courseTitle": "ขอแจ้งเตือน"
+  },
+  {
+    "id": "olddata_row_112",
+    "certificateFileName": "",
+    "staffName": "ดร.กัณณ์ศศิชา เนาว์เย็นผล",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "staffType": "academic",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "knowledgeAfter": 5,
+    "categories": [
+      "ด้านอื่น ๆ"
+    ],
+    "campus": "ศาลายา",
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "hours": 6,
+    "academicPrograms": [
+      "บริหารธุรกิจมหาบัณฑิต (M.B.A.), การจัดการดุษฎีบัณฑิต (D.M.)"
+    ],
+    "staffId": "24/9/2569 11:06:14",
+    "expense": 0,
+    "startDate": "2026-10-06",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "knowledgeBefore": 3,
+    "staffEmail": "24/9/2569 11:06:14",
+    "jobCharacteristics": "อาจารย์ผู้สอนหลักสูตรระดับบัณฑิตศึกษาและวิจัยนวัตกรรม",
+    "submittedAt": "2026-10-06T00:00:00.000Z",
+    "locationType": "onsite",
+    "certificateFile": "",
+    "endDate": "2026-10-06",
+    "courseTitle": "โครงการ เทสระบบ"
+  },
+  {
+    "academicPrograms": [
+      "บริหารธุรกิจมหาบัณฑิต (M.B.A.), การจัดการดุษฎีบัณฑิต (D.M.)"
+    ],
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "knowledgeAfter": 5,
+    "startDate": "2026-10-06",
+    "categories": [
+      "ด้านอื่น ๆ"
+    ],
+    "submittedAt": "2026-10-06T00:00:00.000Z",
+    "locationType": "onsite",
+    "courseTitle": "โครงการ เทสระบบ",
+    "id": "olddata_row_145",
+    "userId": "6/10/2569 14:48:49",
+    "hours": 6,
+    "campus": "ศาลายา",
+    "staffEmail": "6/10/2569 14:48:49",
+    "expense": 0,
+    "staffId": "6/10/2569 14:48:49",
+    "endDate": "2026-10-06",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "staffName": "ดร.กัณณ์ศศิชา เนาว์เย็นผล",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "knowledgeBefore": 3,
+    "staffType": "academic",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ"
+  },
+  {
+    "categories": [
+      "ด้านอื่น ๆ"
+    ],
+    "campus": "ศาลายา",
+    "academicPrograms": [
+      "บริหารธุรกิจมหาบัณฑิต (M.B.A.), การจัดการดุษฎีบัณฑิต (D.M.)"
+    ],
+    "courseTitle": "โครงการ เทสระบบ",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "userId": "6/10/2569 15:04:06",
+    "staffType": "academic",
+    "submittedAt": "2026-10-06T00:00:00.000Z",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "staffName": "ดร.กัณณ์ศศิชา เนาว์เย็นผล",
+    "hours": 6,
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "id": "olddata_row_151",
+    "endDate": "2026-10-06",
+    "locationType": "onsite",
+    "startDate": "2026-10-06",
+    "knowledgeAfter": 5,
+    "knowledgeBefore": 3,
+    "staffId": "6/10/2569 15:04:06",
+    "expense": 0,
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "staffEmail": "6/10/2569 15:04:06"
+  },
+  {
+    "categories": [
+      "ด้านเทคโนโลยีดิจิทัลและ AI"
+    ],
+    "endDate": "2026-10-06",
+    "academicPrograms": [
+      "บริหารธุรกิจมหาบัณฑิต (M.B.A.), บริหารธุรกิจดุษฎีบัณฑิต (D.B.A.)"
+    ],
+    "startDate": "2026-10-06",
+    "hours": 6,
+    "courseTitle": "การใช้งาน AI Model จาก Hugging Face สําหรับผู้เริ่มต้น รุ่นที่2",
+    "id": "olddata_row_154",
+    "submittedAt": "2026-10-06T00:00:00.000Z",
+    "staffId": "6/10/2569 15:04:06",
+    "expense": 0,
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "knowledgeBefore": 3,
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "staffType": "academic",
+    "knowledgeAfter": 5,
+    "staffName": "จุฑามาศ วงศ์กันทรากร",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "userId": "6/10/2569 15:04:06",
+    "locationType": "onsite",
+    "campus": "ศาลายา",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "staffEmail": "6/10/2569 15:04:06"
+  },
+  {
+    "expense": 0,
+    "staffId": "24/9/2569 11:06:14",
+    "academicPrograms": [
+      "บริหารธุรกิจมหาบัณฑิต (M.B.A.), บริหารธุรกิจดุษฎีบัณฑิต (D.B.A.)"
+    ],
+    "startDate": "2026-09-25",
+    "locationType": "onsite",
+    "id": "olddata_row_117",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "knowledgeAfter": 5,
+    "campus": "ศาลายา",
+    "categories": [
+      "ด้านเทคโนโลยีดิจิทัลและ AI"
+    ],
+    "endDate": "2026-09-25",
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "hours": 6,
+    "staffName": "ผศ.ดร.ชัชชติภัช เดชจิรมณี",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "knowledgeBefore": 3,
+    "staffType": "academic",
+    "staffEmail": "24/9/2569 11:06:14",
+    "courseTitle": "พัฒนาสายวิชการ",
+    "jobCharacteristics": "อาจารย์ผู้รับผิดชอบหลักสูตรและจัดกระบวนการเรียนรู้",
+    "certificateFileName": "",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "certificateFile": "",
+    "submittedAt": "2026-09-24T00:00:00.000Z"
+  },
+  {
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "endDate": "2026-09-28",
+    "academicPrograms": [
+      "ฝ่ายบริการวิชาการและเครือข่ายสัมพันธ์"
+    ],
+    "staffEmail": "24/9/2569 11:06:14",
+    "jobCharacteristics": "อาจารย์ผู้สอนหลักสูตรระดับบัณฑิตศึกษาและวิจัยนวัตกรรม",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "staffId": "24/9/2569 11:06:14",
+    "expense": 0,
+    "campus": "ศาลายา",
+    "knowledgeAfter": 5,
+    "startDate": "2026-09-28",
+    "hours": 6,
+    "certificateFile": "",
+    "categories": [
+      "ด้านอื่น ๆ"
+    ],
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "certificateFileName": "",
+    "staffType": "academic",
+    "locationType": "onsite",
+    "staffName": "ผศ.ดร. ชัชชติภัช เดชจิรมณี",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "courseTitle": "กำหนดการ วันที่ 18 ก.ย.69",
+    "knowledgeBefore": 3,
+    "submittedAt": "2026-09-24T00:00:00.000Z",
+    "id": "olddata_row_119"
+  },
+  {
+    "knowledgeBefore": 3,
+    "endDate": "2026-09-24",
+    "knowledgeAfter": 5,
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "categories": [
+      "ด้านการบริหารจัดการและการพัฒนาองค์กร"
+    ],
+    "locationType": "onsite",
+    "staffId": "24/9/2569 11:06:14",
+    "expense": 0,
+    "startDate": "2026-09-24",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "hours": 6,
+    "id": "olddata_row_121",
+    "staffEmail": "24/9/2569 11:06:14",
+    "campus": "ศาลายา",
+    "userId": "24/9/2569 11:06:14",
+    "staffType": "support",
+    "staffName": "นางสาวรสสุคนธ์ Test",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "submittedAt": "2026-09-24T00:00:00.000Z",
+    "courseTitle": "📅 วันพฤหัสบดีที่ 20 สิงหาคม 2569",
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "supportDeptGroup": "ฝ่ายบริการวิชาการและเครือข่ายสัมพันธ์"
+  },
+  {
+    "knowledgeBefore": 3,
+    "id": "olddata_row_122",
+    "locationType": "onsite",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "campus": "ศาลายา",
+    "expense": 0,
+    "staffId": "24/9/2569 11:06:14",
+    "userId": "24/9/2569 11:06:14",
+    "staffEmail": "24/9/2569 11:06:14",
+    "staffName": "ดร.หฤทัย สมศักดิ์",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "endDate": "2026-09-24",
+    "staffType": "academic",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "courseTitle": "โครงการวิจัย Fundamental Fund ประจำปีงบประมาณ พ.ศ. 2571",
+    "hours": 6,
+    "submittedAt": "2026-09-24T00:00:00.000Z",
+    "categories": [
+      "ด้านการวิจัย นวัตกรรม และผลงานทางวิชาการ"
+    ],
+    "academicPrograms": [
+      "ศึกษาศาสตรมหาบัณฑิต (M.Ed.), ปรัชญาดุษฎีบัณฑิต (Ph.D.), การจัดการดุษฎีบัณฑิต (D.M.)"
+    ],
+    "knowledgeAfter": 5,
+    "startDate": "2026-09-24",
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้"
+  },
+  {
+    "knowledgeBefore": 3,
+    "academicPrograms": [
+      "บริหารธุรกิจมหาบัณฑิต (M.B.A.), บริหารธุรกิจดุษฎีบัณฑิต (D.B.A.)"
+    ],
+    "startDate": "2026-09-24",
+    "staffEmail": "24/9/2569 11:06:14",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "staffType": "academic",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "staffName": "ผศ.ดร.ชัชชติภัช เดชจิรมณี",
+    "categories": [
+      "ด้านเทคโนโลยีดิจิทัลและ AI"
+    ],
+    "submittedAt": "2026-09-24T00:00:00.000Z",
+    "staffId": "24/9/2569 11:06:14",
+    "expense": 0,
+    "knowledgeAfter": 5,
+    "courseTitle": "การประยุกต์ใช้เทคโนโลยี AI",
+    "hours": 6,
+    "id": "olddata_row_123",
+    "locationType": "onsite",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "userId": "24/9/2569 11:06:14",
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "campus": "ศาลายา",
+    "endDate": "2026-09-24"
+  },
+  {
+    "staffType": "academic",
+    "endDate": "2026-09-24",
+    "knowledgeAfter": 5,
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "staffName": "ผศ.ดร.ชัชชติภัช เดชจิรมณี",
+    "locationType": "onsite",
+    "categories": [
+      "ด้านเทคโนโลยีดิจิทัลและ AI"
+    ],
+    "courseTitle": "พัฒนาสายวิชการ",
+    "academicPrograms": [
+      "บริหารธุรกิจมหาบัณฑิต (M.B.A.), บริหารธุรกิจดุษฎีบัณฑิต (D.B.A.)"
+    ],
+    "submittedAt": "2026-09-24T00:00:00.000Z",
+    "staffId": "24/9/2569 16:01:13",
+    "expense": 0,
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "knowledgeBefore": 3,
+    "hours": 6,
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "campus": "ศาลายา",
+    "id": "olddata_row_125",
+    "userId": "24/9/2569 16:01:13",
+    "startDate": "2026-09-24",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "staffEmail": "24/9/2569 16:01:13"
+  },
+  {
+    "staffEmail": "24/9/2569 16:01:13",
+    "locationType": "onsite",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "knowledgeAfter": 5,
+    "userId": "24/9/2569 16:01:13",
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "hours": 6,
+    "expense": 0,
+    "staffId": "24/9/2569 16:01:13",
+    "campus": "ศาลายา",
+    "startDate": "2026-09-24",
+    "endDate": "2026-09-24",
+    "id": "olddata_row_128",
+    "courseTitle": "📢ช่วงที่ 4 ทดสอบระบบ",
+    "supportDeptGroup": "ฝ่ายบริการวิชาการและเครือข่ายสัมพันธ์",
+    "submittedAt": "2026-09-24T00:00:00.000Z",
+    "knowledgeBefore": 3,
+    "categories": [
+      "ด้านเทคโนโลยีดิจิทัลและ AI"
+    ],
+    "staffName": "นางสาวรสสุคนธ์ ผิวบัวคำ",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "staffType": "support"
+  },
+  {
+    "hours": 6,
+    "categories": [
+      "ด้านการวิจัย นวัตกรรม และผลงานทางวิชาการ"
+    ],
+    "staffId": "24/9/2569 16:01:13",
+    "expense": 0,
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "staffName": "ดร.หฤทัย สมศักดิ์",
+    "staffType": "academic",
+    "courseTitle": "โครงการวิจัย Fundamental Fund ประจำปีงบประมาณ พ.ศ. 2571",
+    "academicPrograms": [
+      "ศึกษาศาสตรมหาบัณฑิต (M.Ed.), ปรัชญาดุษฎีบัณฑิต (Ph.D.), การจัดการดุษฎีบัณฑิต (D.M.)"
+    ],
+    "locationType": "onsite",
+    "knowledgeAfter": 5,
+    "knowledgeBefore": 3,
+    "endDate": "2026-09-24",
+    "submittedAt": "2026-09-24T00:00:00.000Z",
+    "startDate": "2026-09-24",
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "id": "olddata_row_130",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "campus": "ศาลายา",
+    "userId": "24/9/2569 16:01:13",
+    "staffEmail": "24/9/2569 16:01:13",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ"
+  },
+  {
+    "staffName": "ผศ.ดร.ชัชชติภัช เดชจิรมณี",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "campus": "ศาลายา",
+    "staffType": "academic",
+    "staffEmail": "24/9/2569 16:01:13",
+    "staffId": "24/9/2569 16:01:13",
+    "expense": 0,
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "knowledgeAfter": 5,
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "endDate": "2026-09-24",
+    "locationType": "onsite",
+    "id": "olddata_row_131",
+    "certificateFile": "",
+    "jobCharacteristics": "อาจารย์ผู้สอนหลักสูตรระดับบัณฑิตศึกษาและวิจัยนวัตกรรม",
+    "submittedAt": "2026-09-24T00:00:00.000Z",
+    "courseTitle": "การประยุกต์ใช้เทคโนโลยี AI",
+    "startDate": "2026-09-25",
+    "academicPrograms": [
+      "บริหารธุรกิจมหาบัณฑิต (M.B.A.), บริหารธุรกิจดุษฎีบัณฑิต (D.B.A.)"
+    ],
+    "certificateFileName": "",
+    "categories": [
+      "ด้านเทคโนโลยีดิจิทัลและ AI"
+    ],
+    "knowledgeBefore": 3,
+    "hours": 6
+  },
+  {
+    "hours": 6,
+    "startDate": "2026-09-28",
+    "id": "olddata_row_132",
+    "staffEmail": "24/9/2569 16:01:13",
+    "isCollegeFaculty": "วิทยาลัยนวัตกรรมการจัดการ",
+    "workApplication": "สามารถนำความรู้และทักษะจากการฝึกอบรมมาเพิ่มประสิทธิภาพในการปฏิบัติงาน สอดคล้องกับเป้าหมายองค์กรแห่งการเรียนรู้",
+    "campus": "ศาลายา",
+    "certificateFileName": "",
+    "organizer": "หน่วยงานภายนอก / Google Sheets",
+    "staffName": "จุฑามาศ วงศ์กันทรากร",
+    "knowledgeAfter": 5,
+    "expense": 0,
+    "staffId": "24/9/2569 16:01:13",
+    "staffType": "academic",
+    "submittedAt": "2026-09-24T00:00:00.000Z",
+    "courseTitle": "Workflow Automation รุ่นที่ 2 ภาควิชาวิศวกรรมไฟฟ้า คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม มหาวิทยาลัยศิลปากร",
+    "certificateFile": "",
+    "location": "วิทยาลัยนวัตกรรมการจัดการ",
+    "academicPrograms": [
+      "บริหารธุรกิจมหาบัณฑิต (M.B.A.), บริหารธุรกิจดุษฎีบัณฑิต (D.B.A.)"
+    ],
+    "locationType": "onsite",
+    "jobCharacteristics": "อาจารย์ผู้สอนหลักสูตรระดับบัณฑิตศึกษาและวิจัยนวัตกรรม",
+    "knowledgeBefore": 3,
+    "categories": [
+      "ด้านเทคโนโลยีดิจิทัลและ AI"
+    ],
+    "endDate": "2026-09-28"
+  }
+]
